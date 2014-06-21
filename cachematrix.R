@@ -1,5 +1,5 @@
 ## ---------------------------------------------------------------------------------------------------------------------
-## 2014-06-22
+## 2014-06-22 04:27
 ## Written By: JS Lee
 ## Purpose of this R code: This R code is to calculate an inverse of a sqaure matrix.
 ##                         When the inverse is calculated alreadly, the cached inverse will be returned which saves caculation time.
